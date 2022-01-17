@@ -1,5 +1,5 @@
 ### Olá eu sou o Renato 😎🙌🙌🙌
-Sou formado em Análise e Desenvolvimento de Sistemas, e atualmete estudando para me tordar um desenvolvedor Front-End.
+Sou formado em Análise e Desenvolvimento de Sistemas, e atualmete estou estudando para me tornar um desenvolvedor Front-End.
    
 
 - 🌱  Atualmente estou estudando para trabalhar com Front-End
